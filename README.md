@@ -1,5 +1,8 @@
 # Ernesto Gonzales, MSDA
 ## Data Analyst
+### Data Projects
+[Predictive Models Building Using a Synthetic Dataset](https://github.com/ernestog27/data-projects/blob/main/Predictive%20Models%20Building%20-%20Ernesto%20Gonzales.ipynb)
+
 ### Education
 Master Of Science In Data Analytics
 
