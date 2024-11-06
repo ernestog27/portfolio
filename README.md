@@ -1,27 +1,44 @@
 # Ernesto Gonzales, MSDA
-## Data Analyst
-### Data Projects
-[Predictive Models Building Using a Synthetic Dataset](https://github.com/ernestog27/data-projects/blob/main/Predictive%20Models%20Building%20-%20Ernesto%20Gonzales.ipynb)
+## Data Projects
+#### [Sentiment Analysis with Flask API](https://github.com/ernestog27/data-projects/blob/main/NLP_sentiment_analysis.py)
+
+#### [Predictive Models Building Using a Synthetic Dataset](https://github.com/ernestog27/data-projects/blob/main/Predictive%20Models%20Building%20-%20Ernesto%20Gonzales.ipynb)
 
 ### Education
-Master Of Science In Data Analytics
+Master Of Science - Data Analytics
 
 Western Governors University
 08/2024
 
-Bachelor Of Arts In Applied Psychology
+Bachelor Of Arts - Applied Psychology
 
 San Diego State University
 05/2019
 
-### Certifications
+### Certifications and Certificates
 CompTIA Data+
 06/2023
 
-Business Intelligence Analysis, UC San Diego
+Business Intelligence Analysis, UC San Diego Extension
 03/2021
 
 ### Work Experience
+**Casa Familiar Inc**
+IT Analyst
+Full-time
+San Diego, CA 9/2024 - Present
+
+• Administering and regulating OneDrive and SharePoint to ensure secure and efficient document collaboration and storage.
+
+• Developing and implementing standard operating procedures for IT systems and tools.
+
+• Generating reports to analyze system performance.
+
+• Leading the implementation of new IT systems, ensuring smooth integration and staff training. 
+
+• Collaborating with internal teams to identify and improve IT processes. 
+
+• Proposing and implementing solutions to optimize system efficiency.
 
 **Sempra Headquarters** 
 Ethics Analyst
